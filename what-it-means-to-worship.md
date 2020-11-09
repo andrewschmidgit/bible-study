@@ -96,6 +96,19 @@ and put their trust in the LORD.
 2 Serve the LORD with gladness!
   Come into his presence with singing!
 ```
+
+#### Psalm 2:11
+```json
+11 Serve the LORD with fear,
+and rejoice with trembling.
+```
+
+#### Luke 4:8
+```json
+8 And Jesus answered him, “It is written,
+“‘You shall worship the Lord your God,
+and him only shall you serve.’”
+```
 > Serve Him in all that we do gladly, out of thankfulness.
 
 ## Encourages us to go out and proclaim the Good News
