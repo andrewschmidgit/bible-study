@@ -67,7 +67,7 @@ This is a story about both God and Abraham. Abraham's faith, and God's providenc
 
 ---
 
-## Jesus in the 
+## Jesus in Egypt
 #### Exodus 12:1-13
 ```json
 1 The LORD said to Moses and Aaron in the land of Egypt, 2 “This month shall be for you the beginning of months. It shall be the first month of the year for you. 3 Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb according to their fathers’ houses, a lamb for a household. 4 And if the household is too small for a lamb, then he and his nearest neighbor shall take according to the number of persons; according to what each can eat you shall make your count for the lamb. 5 Your lamb shall be without blemish, a male a year old. You may take it from the sheep or from the goats, 6 and you shall keep it until the fourteenth day of this month, when the whole assembly of the congregation of Israel shall kill their lambs at twilight.
